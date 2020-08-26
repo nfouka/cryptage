@@ -1,4 +1,11 @@
+
+<img src='https://www.wizcase.com/wp-content/uploads/2018/11/vpn_encryption.jpg' />
+
+
+
 ## Symmetic encryption
+
+
 
 For symmetic encryption, you can use the following:
 
